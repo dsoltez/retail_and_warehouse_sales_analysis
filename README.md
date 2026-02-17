@@ -95,7 +95,7 @@ Overall, this project strengthened my SQL skills, improved my ability to work wi
 | `excel/` | Final Excel workbook containing 10 analysis tabs (retail, warehouse, totals, supporting tables) | `Retail, Warehouse, and Total Sales of WBL.xlsx` |
 | `sql/` | Full SQL pipeline: loading, cleaning, and analysis queries | `load_wh_rt_sales.sql`, `cleaning_wh_rt_sales.sql`, `questions_wh_rt_sales.sql` |
 | `visuals/` | All project visuals, organized into subfolders | — |
-| ↳ `visuals/Sales Analysis of WBL/` | Full PowerPoint case study summarizing workflow, analysis, and insights | `Sales Analysis of WBL.pptx` |
-| ↳ `visuals/chartvisuals/` | All PNG chart exports used in the PowerPoint deck | `Retail_Beer_Sales.png`, `Retail_Liquor_Sales.png`, `Retail_Wine_Sales.png`, `Retail_Sales_by_Item_Type.png`, `Total_Sales_by_Category.png`, `Beer_Warehouse_Sales.png`, `Liquor_Warehouse_Sales.png`, `Warehouse_Sales_by_Item_Type.png`, `Warehouse_Sales_by_Item_Type_v2.png` |
-| ↳ `visuals/excelvisuals/` | Excel‑exported tables used for analysis | `beer_rt_sales_table.png`, `beer_wh_sales_table.png`, `liquor_rt_sales_table.png`, `liquor_wh_sales_table.png`, `wine_rt_sales_table.png`, `wine_wh_sales_table.png`, `retail_sales_table.png`, `total_sales_table.png`, `warehouse_sales_table.png` |
+|   `visuals/Sales Analysis of WBL/` | Full PowerPoint case study summarizing workflow, analysis, and insights | `Sales Analysis of WBL.pptx` |
+|   `visuals/chartvisuals/` | All PNG chart exports used in the PowerPoint deck | `Retail_Beer_Sales.png`, `Retail_Liquor_Sales.png`, `Retail_Wine_Sales.png`, `Retail_Sales_by_Item_Type.png`, `Total_Sales_by_Category.png`, `Beer_Warehouse_Sales.png`, `Liquor_Warehouse_Sales.png`, `Warehouse_Sales_by_Item_Type.png`, `Warehouse_Sales_by_Item_Type_v2.png` |
+|   `visuals/excelvisuals/` | Excel‑exported tables used for analysis | `beer_rt_sales_table.png`, `beer_wh_sales_table.png`, `liquor_rt_sales_table.png`, `liquor_wh_sales_table.png`, `wine_rt_sales_table.png`, `wine_wh_sales_table.png`, `retail_sales_table.png`, `total_sales_table.png`, `warehouse_sales_table.png` |
 | `README.md` | Full project documentation & overview | — |
