@@ -99,3 +99,10 @@ Overall, this project strengthened my SQL skills, improved my ability to work wi
 |   `visuals/chartvisuals/` | All PNG chart exports used in the PowerPoint deck | `Retail_Beer_Sales.png`, `Retail_Liquor_Sales.png`, `Retail_Wine_Sales.png`, `Retail_Sales_by_Item_Type.png`, `Total_Sales_by_Category.png`, `Beer_Warehouse_Sales.png`, `Liquor_Warehouse_Sales.png`, `Warehouse_Sales_by_Item_Type.png`, `Warehouse_Sales_by_Item_Type_v2.png` |
 |   `visuals/excelvisuals/` | Excel‑exported tables used for analysis | `beer_rt_sales_table.png`, `beer_wh_sales_table.png`, `liquor_rt_sales_table.png`, `liquor_wh_sales_table.png`, `wine_rt_sales_table.png`, `wine_wh_sales_table.png`, `retail_sales_table.png`, `total_sales_table.png`, `warehouse_sales_table.png` |
 | `README.md` | Full project documentation & overview | — |
+
+# 8. Data Source
+
+This project uses a publicly available dataset originally shared on Kaggle by **[Sahir Maharaj]**.  
+All cleaning, transformation, validation, and pipeline engineering were performed by me.
+The dataset was used solely for educational and portfolio purposes.  
+No modifications were made to the original raw files beyond cleaning and preprocessing steps documented in this repository.
