@@ -14,7 +14,7 @@ Everything in this repository is designed to be transparent, reproducible, and e
 
 # 3. Data Cleaning & Engineering
 The raw sales data needed several fixes before it could be analyzed — mainly because the dataset came from Kaggle, where most users cleaned it using Python (pandas). Since I’m not fully comfortable with Python yet, and I currently use R only for NFL analytics, I chose to tackle this project entirely in SQL to sharpen my engineering skills. I didn’t realize how many challenges I’d run into, but honestly, working through them taught me a lot and made the project even more rewarding.
-Because SQL doesn’t automatically handle messy CSVs the way Python or R does, the cleaning and loading process became a crucial part of the workflow. If you’re following along, make sure to use the files in this repository exactly as written — especially .
+Because SQL doesn’t automatically handle messy CSVs the way Python or R does, the cleaning and loading process became a crucial part of the workflow. If you’re following along, make sure to use the files in this repository exactly as written.
 
 ## Key Cleaning Steps
 ### Handled inconsistent delimiters
